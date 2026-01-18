@@ -1,2 +1,3 @@
-# java-quick-serve
-A PWA-based token creation and order management system for institutional canteens.
+# Java Quick Serve
+
+A Progressive Web App (PWA) for token-based food ordering and queue management in institutional canteens.
